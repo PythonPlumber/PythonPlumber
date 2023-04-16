@@ -12,4 +12,5 @@ Computer :-
 - Dell Inpirion 15 3000 Series
 
 Operating System
-- Ubuntu 
+- Ubuntu
+- windows 98 ( for retro tools ) 
