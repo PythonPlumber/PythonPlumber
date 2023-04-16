@@ -15,4 +15,4 @@ Operating System
 - Ubuntu
 - windows 98 ( for retro tools ) 
 
-<img src="/img/ie_anim.gif"><img src="/img/members-choice.gif"><img src="/img/image.png" width="45" height="45"><img src="/img/windows/gif">
+<img src="/img/ie_anim.gif"><img src="/img/members-choice.gif"><img src="/img/image.png" width="45" height="45"><img src="/img/windows.gif">
