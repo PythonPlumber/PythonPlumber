@@ -1,6 +1,6 @@
 <p align="center">
   <img src="/img/under.gif">
-  br
+  <br>
   <img src="/img/play1.gif" alt="Doom player">
 </p>
 
