@@ -19,7 +19,9 @@ Operating System
 
 # Other Details
 - My Website
+<br>
 <a href="https://pythonplumber.github.io"><img src="https://pythonplumber.neocities.org/wwwbutton.gif"></a>
-
+<br>
+<br>
 
 <img src="/img/ie_anim.gif"><img src="/img/members-choice.gif"><img src="/img/image.png" width="45" height="45"><img src="/img/windows.gif">
