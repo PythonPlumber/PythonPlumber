@@ -1,7 +1,8 @@
 <p align="center">
 <img src="/img/play1.gif" alt="Doom player">
 </p>
-## ⚡ Technologies
+
+# ⚡ Technologies
 
 programming languages:
 - Front-end development using **HTML, CSS**.
