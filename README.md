@@ -19,7 +19,7 @@ Operating System
 
 # Other Details
 - My Website :-   
-<a href="pythonplumber.is-a.dev"><img src="https://pythonplumber.neocities.org/wwwbutton.gif"></a>
+<a href="https://pythonplumber.eu.org/"><img src="https://pythonplumber.neocities.org/wwwbutton.gif"></a>
 <br>
 <br>
 
