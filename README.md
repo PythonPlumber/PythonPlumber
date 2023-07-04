@@ -14,8 +14,7 @@ Computer :-
 - Dell Inpirion 15 3000 Series
 
 Operating System
-- Ubuntu
-- windows 98 ( for retro tools ) 
+- Arch Linux
 
 # Other Details
 - My Website :-   
@@ -23,4 +22,4 @@ Operating System
 <br>
 <br>
 
-<img src="/img/ie_anim.gif"><img src="/img/members-choice.gif"><img src="/img/image.png" width="45" height="45"><img src="/img/windows.gif">
+<img src="/img/ie_anim.gif"><img src="/img/members-choice.gif">
