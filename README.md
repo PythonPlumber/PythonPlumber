@@ -4,22 +4,25 @@
   <img src="/img/play1.gif" alt="Doom player">
 </p>
 
-# ⚡ Technologies
+# About Me
 
-programming languages:
-- Front-end development using **HTML, CSS**.
-- Learning :- **Python**
+- 🤪 Professional Jokester and Code Comedian
+- 🎉 Creator of side-splitting programs and projects
+- 🎭 Master of funny comments and clever code tricks
+- 😄 Always ready to turn bugs into laughs
 
-Computer :-
-- Dell Inpirion 15 3000 Series
+# Fun Facts
 
-Operating System
-- Arch Linux
+- 🎉 I've been known to make my computer laugh with cleverly crafted code jokes.
+- 🍕 My secret to coding success: a pizza, a cup of coffee, and a good laugh.
+- 💡 My coding superpower is being able to turn any serious task into a fun coding adventure.
+- 
+## Check Out My Website
 
-# Other Details
-- My Website :-   
-<a href="https://pythonplumber.eu.org/"><img src="https://pythonplumber.neocities.org/wwwbutton.gif"></a>
-<br>
-<br>
+Feel free to visit my website at [pythonplumber.eu.org](https://pythonplumber.eu.org/) to explore more of my hilarious programming adventures, funny coding stories, and entertaining projects. Get ready to laugh your way through the world of code!
 
-<img src="/img/ie_anim.gif"><img src="/img/members-choice.gif">
+## Laughter Disclaimer
+
+Caution: Code laughter-induced side effects may include uncontrollable giggling, joyful programming sessions, and occasional bouts of rolling on the floor laughing. Proceed with a sense of humor!
+
+Happy coding and keep laughing! 😄
