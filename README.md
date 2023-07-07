@@ -7,7 +7,7 @@
 
 Welcome to my hilarious coding kingdom! I'm PythonPlumber, the funniest plumber in the Mushroom Kingdom 🍄 and a master of coding comedy 🎭.
 
-## About Me
+## About Me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" alt="☕" width="32" height="32">
 
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="15" height="15"> Python Addict and GNU/Linux Aficionado
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="15" height="15"> Embracing coding challenges like a penguin sliding on ice
