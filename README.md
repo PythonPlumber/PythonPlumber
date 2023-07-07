@@ -30,3 +30,7 @@ Feel free to visit my website at [pythonplumber.eu.org](https://pythonplumber.eu
 Caution: Code laughter-induced side effects may include uncontrollable giggling, joyful programming sessions, and occasional bouts of rolling on the floor laughing. Proceed with a sense of humor!
 
 Happy coding and keep laughing! 😄
+
+<div align="center">
+<img src="https://colegiomilagrosdedios.edu.pe/wp-content/uploads/2018/08/footer-img.png" alt="img player">
+</div>
