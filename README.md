@@ -9,10 +9,10 @@ Welcome to my hilarious coding kingdom! I'm PythonPlumber, the funniest plumber 
 
 ## About Me
 
-- 🐍 Python Addict and GNU/Linux Aficionado
-- 🌟 Embracing coding challenges like a penguin sliding on ice
-- 🎉 Turning coffee into code and bugs into unexpected penguin dances
-- 😄 Turning bugs into jokes since 1985
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="32" height="32"> Python Addict and GNU/Linux Aficionado
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"> Embracing coding challenges like a penguin sliding on ice
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32"> Turning coffee into code and bugs into unexpected penguin dances
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f600/512.gif" alt="😀" width="32" height="32"> Turning bugs into jokes since 1985
 
 ## Fun Facts
 
