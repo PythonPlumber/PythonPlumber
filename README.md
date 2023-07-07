@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="/img/under.gif">
+  <img src="https://github.com/PythonPlumber/PythonPlumber/blob/c4016b02956e36e42e50adbf7b17c9d41dbf1a2b/img/github-header-image.png">
   <br>
-  <img src="/img/play1.gif" alt="Doom player">
 </p>
 
 # It's-a Me, PythonPlumber! 👋
