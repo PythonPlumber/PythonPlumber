@@ -10,9 +10,9 @@ Welcome to my hilarious coding kingdom! I'm PythonPlumber, the funniest plumber 
 
 ## About Me
 
-- 🍌 Professional Banana Collector and Goomba Stomper
-- 🎉 Creator of laughter-inducing programs and projects
-- 🎮 Player 1 in the game of coding comedy
+- 🐍 Python Addict and GNU/Linux Aficionado
+- 🌟 Embracing coding challenges like a penguin sliding on ice
+- 🎉 Turning coffee into code and bugs into unexpected penguin dances
 - 😄 Turning bugs into jokes since 1985
 
 ## Fun Facts
