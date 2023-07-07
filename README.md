@@ -20,7 +20,7 @@ Welcome to my hilarious coding kingdom! I'm PythonPlumber, the funniest plumber 
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="15" height="15"> My favorite power-up is a cup of coffee ☕️, giving me endless energy to code and laugh.
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="15" height="15"> My coding mantra: "It's-a me, PythonPlumber! Let's-a code and have some fun!"
 
-## Check Out My Funny Adventures
+## Check Out My Funny Adventures <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f377/512.gif" alt="🍷" width="32" height="32">
 
 Visit my hilarious coding kingdom at [pythonplumber.com](https://pythonplumber.com/) to embark on funny coding adventures, discover amusing projects, and laugh your way through the world of code! Let's-a go!
 
