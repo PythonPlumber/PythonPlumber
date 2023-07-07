@@ -5,7 +5,7 @@
 
 # It's-a Me, PythonPlumber! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37b/512.gif" alt="🍻" width="32" height="32">
 
-Welcome to my hilarious coding kingdom! I'm PythonPlumber, the funniest plumber in the Mushroom Kingdom 🍄 and a master of coding comedy 🎭.
+Welcome to my hilarious coding kingdom! I'm PythonPlumber, the funniest plumber in the Mushroom Kingdom 🍄 and a master of coding comedy <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a5/512.gif" alt="💥" width="13" height="13">
 
 ## About Me
 
