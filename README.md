@@ -32,5 +32,5 @@ Caution: Code laughter-induced side effects may include uncontrollable giggling,
 Happy coding and keep laughing! 😄
 
 <div align="center">
-<img src="https://colegiomilagrosdedios.edu.pe/wp-content/uploads/2018/08/footer-img.png" alt="img player" width="62" height="1202">
+<img src="https://colegiomilagrosdedios.edu.pe/wp-content/uploads/2018/08/footer-img.png" alt="img player" width="120" height="62">
 </div>
