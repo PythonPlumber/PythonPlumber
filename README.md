@@ -4,33 +4,29 @@
   <img src="/img/play1.gif" alt="Doom player">
 </p>
 
-# Hello, fellow coders! 👋
+# It's-a Me, PythonPlumber! 👋
 
-Welcome to my GitHub profile! I'm **Python Plumber**, a passionate developer who believes that coding is the best form of comedy. 🤣
+Welcome to my hilarious coding kingdom! I'm PythonPlumber, the funniest plumber in the Mushroom Kingdom 🍄 and a master of coding comedy 🎭.
 
 ## About Me
 
-- 🤪 Professional Jokester and Code Comedian
-- 🎉 Creator of side-splitting programs and projects
-- 🎭 Master of funny comments and clever code tricks
-- 😄 Always ready to turn bugs into laughs
+- 🍌 Professional Banana Collector and Goomba Stomper
+- 🎉 Creator of laughter-inducing programs and projects
+- 🎮 Player 1 in the game of coding comedy
+- 😄 Turning bugs into jokes since 1985
 
 ## Fun Facts
 
-- 🎉 I've been known to make my computer laugh with cleverly crafted code jokes.
-- 🍕 My secret to coding success: a pizza, a cup of coffee, and a good laugh.
-- 💡 My coding superpower is being able to turn any serious task into a fun coding adventure.
+- 🍕 I have a never-ending appetite for pizza and a passion for coding.
+- 🌟 My favorite power-up is a cup of coffee ☕️, giving me endless energy to code and laugh.
+- 💡 My coding mantra: "It's-a me, PythonPlumber! Let's-a code and have some fun!"
 
-## Check Out My Website
+## Check Out My Funny Adventures
 
-Feel free to visit my website at [pythonplumber.eu.org](https://pythonplumber.eu.org/) to explore more of my hilarious programming adventures, funny coding stories, and entertaining projects. Get ready to laugh your way through the world of code!
+Visit my hilarious coding kingdom at [pythonplumber.com](https://pythonplumber.com/) to embark on funny coding adventures, discover amusing projects, and laugh your way through the world of code! Let's-a go!
 
 ## Laughter Disclaimer
 
-Caution: Code laughter-induced side effects may include uncontrollable giggling, joyful programming sessions, and occasional bouts of rolling on the floor laughing. Proceed with a sense of humor!
+Warning: Exposure to my coding comedy may result in uncontrollable fits of laughter, smiling muscles soreness, and increased love for programming. Proceed with caution and a sense of humor!
 
-Happy coding and keep laughing! 😄
-
-<div align="center">
-<img src="https://colegiomilagrosdedios.edu.pe/wp-content/uploads/2018/08/footer-img.png" alt="img player" height="62">
-</div>
+Keep laughing and coding on! 🎉🍌
