@@ -17,7 +17,7 @@ Welcome to my hilarious coding kingdom! I'm PythonPlumber, the funniest plumber 
 ## Fun Facts
 
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37f/512.gif" alt="🍿" width="15" height="15"> I have a never-ending appetite for pizza and a passion for coding.
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="15" height="15"> My favorite power-up is a cup of coffee ☕️, giving me endless energy to code and laugh.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="15" height="15"> My favorite power-up is a cup of coffee <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" alt="☕" width="15" height="15">, giving me endless energy to code and laugh.
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="15" height="15"> My coding mantra: "It's-a me, PythonPlumber! Let's-a code and have some fun!"
 
 ## Check Out My Funny Adventures <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f377/512.gif" alt="🍷" width="32" height="32">
