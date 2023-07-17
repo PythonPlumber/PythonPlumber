@@ -23,7 +23,11 @@ Welcome to my hilarious coding kingdom! I'm PythonPlumber, the funniest plumber 
 ## Check Out My Funny Adventures <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f377/512.gif" alt="🍷" width="32" height="32">
 
 Visit my hilarious coding kingdom at [pythonplumber.com](https://pythonplumber.com/) to embark on funny coding adventures, discover amusing projects, and laugh your way through the world of code<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/203c_fe0f/512.gif" alt="‼" width="15" height="15"> Let's-a go<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/203c_fe0f/512.gif" alt="‼" width="15" height="15">
-  
+
+## Find Me on Dev.to
+
+You can also check out my articles and coding insights on [Dev.to](https://dev.to/pythonplumber). Join me there for more coding fun!
+
 ## Laughter Disclaimer
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a8/512.gif" alt="🚨" width="15" height="15"> Warning: Exposure to my coding comedy may result in uncontrollable fits of laughter, smiling muscles soreness, and increased love for programming. Proceed with caution and a sense of humor!
