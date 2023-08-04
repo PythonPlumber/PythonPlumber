@@ -33,3 +33,5 @@ You can also check out my articles and coding insights on [Dev.to](https://dev.t
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a8/512.gif" alt="🚨" width="15" height="15"> Warning: Exposure to my coding comedy may result in uncontrollable fits of laughter, smiling muscles soreness, and increased love for programming. Proceed with caution and a sense of humor!
 
 Keep laughing and coding on! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="15" height="15"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" alt="💫" width="15" height="15">
+
+"Programming life is an art of logic, where code becomes a canvas, and innovation thrives through challenges." - Python Plumber
