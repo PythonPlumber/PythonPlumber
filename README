@@ -1,19 +1,52 @@
-import random
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-def work():
-    knowledge = None
-    tools = ["Python", "GNU/Linux"]
-    while True:
+"""
+File: brain_cells.py
+Status: Deprecated / Experimental / Send help
+Author: PythonPlumber (The guy who doesn't know anything)
+"""
+
+import os
+import sys
+import time
+
+class DeveloperCrisis:
+    def __init__(self):
+        self.os = "GNU/Linux (I think?)"
+        self.language = "Python"
+        self.brain_power = 0.04
+        self.is_it_working = False
+
+    def write_code(self):
+        # 1. Look at terminal
+        # 2. Type random Python stuff
+        # 3. Hope the penguin is happy
         try:
-            # I have no idea what I'm doing
-            code = "print('Hello World')" 
-            execute(code)
-        except Exception:
-            # Turning coffee into bugs
-            drink_coffee()
-            ask_stack_overflow()
-            if random.choice([True, False]):
-                break # Give up and go to pythonplumber.eu.org
-    return "It's-a me, a confused programmer."
+            print("Running code... please don't explode.")
+            time.sleep(2)
+            raise Exception("I have no idea what I'm doing.")
+        except Exception as e:
+            print(f"Error: {e}")
+            self.fix_it_with_coffee()
 
-Warning: May cause kernel panic or mild laughter.
+    def fix_it_with_coffee(self):
+        print("Drinking coffee... converting caffeine into bugs...")
+        # Searching stackoverflow... 404 brain not found
+        self.is_it_working = random_guess() 
+
+def random_guess():
+    # If this returns True, it's a miracle.
+    return "Maybe? Try restarting."
+
+if __name__ == "__main__":
+    me = DeveloperCrisis()
+    
+    while not me.is_it_working:
+        print("Logic.exe has stopped responding.")
+        # If all else fails, go to the website
+        print("Redirecting to: https://pythonplumber.eu.org/")
+        break 
+
+# TODO: Figure out how to code.
+# FIXME: Everything.
