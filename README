@@ -45,7 +45,7 @@ if __name__ == "__main__":
     while not me.is_it_working:
         print("Logic.exe has stopped responding.")
         # If all else fails, go to the website
-        print("Redirecting to: https://pythonplumber.eu.org/")
+        print("Redirecting to: https://senuka.me/")
         break 
 
 # TODO: Figure out how to code.
